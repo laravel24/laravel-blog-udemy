@@ -28,3 +28,5 @@ https://www.udemy.com/learn-laravel-php-framework-building-multi-user-seo-blog-a
 <li>In App/Config/services.php supply facebook app id and secret to use login with facebook feature</li>
 </ul>
 Enjoy!
+----
+acl - http://itsolutionstuff.com/post/laravel-52-user-acl-roles-and-permissions-with-middleware-using-entrust-from-scratch-tutorialexample.html
